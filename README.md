@@ -11,6 +11,7 @@ The NSConf video file naming is a complete mess:
 
 Also see comments in the .py file.
 
+If you're from NSConf and you want to use my renamed file scheme on your site, please feel free (and give me a name credit if you do).
 
 Usage
 =====

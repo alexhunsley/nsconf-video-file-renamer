@@ -1,0 +1,145 @@
+Talk name,Speaker,Comment,Video size,Length (mins),Conf,,,Filename (no suffix),New filename root
+Designing and Developing Custom Controls,Matt Gemmell,,157MB,60,NSConference 1 - April 2009,,,01NSConfMain032009,NSConf01
+Integrating With The Photography Eco System,Fraser Spiers,,107MB,45,NSConference 1 - April 2009,,,02NSConfMain032009,NSConf01
+New Cocoa Programming SuperPowers,Philippe Mougin,,132MB,61,NSConference 1 - April 2009,,,03NSConfOneMarch2009,NSConf01
+The Foundations of Objective C,Andre Pang,,154MB,59,NSConference 1 - April 2009,,,04NSConfOneMarch2009,NSConf01
+Pimp My App,Mike Lee,,163MB,61,NSConference 1 - April 2009,,,05NSConfOneMarch2009,NSConf01
+What a Performance,Drew McCormack,,154MB,56,NSConference 1 - April 2009,,,06NSConfOneMarch2009,NSConf01
+Building A Secure Cocoa Program,Graham Lee,,167MB,63,NSConference 1 - April 2009,,,07NSConfOneMarch2009,NSConf01
+"Core Animation, Animating Your UI",Bill Dudney,,158MB,57,NSConference 1 - April 2009,,,08NSConfOneMarch2009,NSConf01
+Spotlight and Quicklook vs Core Data,Marcus Zarra,,87MB,33,NSConference 1 - April 2009,,,09NSConfOneMarch2009,NSConf01
+The Very First Cocoa Face Off,,,177MB,56,NSConference 1 - April 2009,,,10NSConfOneMarch2009,NSConf01
+Engineering Life,Mike Lee,,109MB,57,NSConference 2 - March 2010,,,01NSConfTwoMarch2010,NSConf02
+Spelunking OS X,Johnathan Rentzch,,109MB,71,NSConference 2 - March 2010,,,02NSConfTwoMarch2010,NSConf02
+Clean Code,Dave Dribin,,149MB,56,NSConference 2 - March 2010,,,03NSConfTwoMarch2010,NSConf02
+Data Presentation in Mac Apps,Drew McCormack,,118MB,60,NSConference 2 - March 2010,,,04NSConfTwoMarch2010,NSConf02
+Core Animation,Marcus Zarra,,120MB,60,NSConference 2 - March 2010,,,05NSConfTwoMarch2010,NSConf02
+Making Mistakes Impossible,Matt Gemmell,,106MB,57,NSConference 2 - March 2010,,,06NSConfTwoMarch2010,NSConf02
+Signing Your Code,Graham Lee,,120MB,60,NSConference 2 - March 2010,,,07NSConfTwoMarch2010,NSConf02
+Writing Super Superclasses,Jeff LaMarche,,102MB,38,NSConference 2 - March 2010,,,08NSConfTwoMarch2010,NSConf02
+Brushing Up on OpenCL,Andy Finnell,,113MB,48,NSConference 2 - March 2010,,,09NSConfTwoMarch2010,NSConf02
+The Many Faces of Data Persistence,Aaron Hillegas,,128MB,60,NSConference 2 - March 2010,,,10NSConfTwoMarch2010,NSConf02
+Version Control System Shootout,Dave Dribin,,73MB,37,NSConference 2 - March 2010,,,11NSConfTwoMarch2010,NSConf02
+Meet The User,Mike Lee,,128MB,48,NSConference 2 - March 2010,,,12NSConfTwoMarch2010,NSConf02
+Hard and Fast OpenGL,Jeff LaMarche,,120MB,60,NSConference 2 - March 2010,,,13NSConfTwoMarch2010,NSConf02
+Core Data Synchronization,Marcus Zarra,,93MB,52,NSConference 2 - March 2010,,,14NSConfTwoMarch2010,NSConf02
+The Physics of Sumos,Drew McCormack,,115MB,51,NSConference 2 - March 2010,,,15NSConfTwoMarch2010,NSConf02
+Supporting Online Play and Game Kit in Your Application,Jeff LaMarche,,89MB,43,NSConference 2 - March 2010,,,16NSConfTwoMarch2010,NSConf02
+Twiddle Your Bits,Alastair Houghton,,73MB,31,NSConference Mini - June 2010,,,01NSConfMiniJune2010,NSConfMini01
+Beyond Build and Analyze,Graham Lee,,104MB,42,NSConference Mini - June 2010,,,02NSConfMiniJune2010,NSConfMini01
+Reinventing The Wheel,Johnathan Dann,,87MB,35,NSConference Mini - June 2010,,,03NSConfMiniJune2010,NSConfMini01
+Building Better Software Quicker,Gordon Murrison,,37MB,16,NSConference Mini - June 2010,,,04NSConfMiniJune2010,NSConfMini01
+Making Terrific Screencasts,Andreas Zeitler,,87MB,42,NSConference Mini - June 2010,,,05NSConfMiniJune2010,NSConfMini01
+Welcome to Cocos2d for iPhone,Marcin Maciukiewicz,,39MB,17,NSConference Mini - June 2010,,,06NSConfMiniJune2010,NSConfMini01
+Tips and Tricks for Core Location for iPhone OS,Dave Addey,,63MB,24,NSConference Mini - June 2010,,,07NSConfMiniJune2010,NSConfMini01
+18 Months of Cappuccino,Klass Pieter Annema,,64MB,26,NSConference Mini - June 2010,,,08NSConfMiniJune2010,NSConfMini01
+Lesson Learnt From Little Snapper,Danny Greg,,49MB,20,NSConference Mini - June 2010,,,09NSConfMiniJune2010,NSConfMini01
+Extreme Programming For The Solo Developer,Steve Scott (Scotty),,84MB,35,NSConference Mini - June 2010,,,10NSConfMiniJune2010,NSConfMini01
+Creating a Smooth Development Workflow with GitHub,Joachim Bondo,,37MB,15,NSConference 3 - March 2011,,,01NSConf03March2011,NSConf03
+"Elementary, My Dear Watson",Johnathan Dann,,56MB,28,NSConference 3 - March 2011,,,02NSConf03March2011,NSConf03
+Digital Magzines for the iPad using WoddWing Tools,Umit Mericler,,24MB,10,NSConference 3 - March 2011,,,03NSConf03March2011,NSConf03
+Your App Sounds Great,Dave Addey,,43MB,21,NSConference 3 - March 2011,,,04NSConf03March2011,NSConf03
+Simulating Core Location,Ortwin Gentz,,48MB,20,NSConference 3 - March 2011,,,05NSConf03March2011,NSConf03
+Cryptographic Storage For People in a Hurry,Graham Lee,,57MB,30,NSConference 3 - March 2011,,,06NSConf03March2011,NSConf03
+Wrangling the Cocoa Text System,Ross Carter,,31MB,13,NSConference 3 - March 2011,,,07NSConf03March2011,NSConf03
+Digging Into Instruments,Colin Wheeler,,55MB,28,NSConference 3 - March 2011,,,08NSConf03March2011,NSConf03
+From Local To Remote,Danny Greg,,30MB,11,NSConference 3 - March 2011,,,09NSConf03March2011,NSConf03
+Building a Better Indie Business,Kevin Hoctor,,50MB,29,NSConference 3 - March 2011,,,10NSConf03March2011,NSConf03
+Hudson / Jenkins for iOS,Eric Bariaux,,29MB,13,NSConference 3 - March 2011,,,11NSConf03March2011,NSConf03
+Mixed Metaphores in Application,Cathy Shive,,55MB,32,NSConference 3 - March 2011,,,12NSConf03March2011,NSConf03
+Scaling Up an Indie Software Company,Ken Aspeslagh,,47MB,19,NSConference 3 - March 2011,,,13NSConf03March2011,NSConf03
+Annyone or Cappuccino,John Fox,,93MB,48,NSConference 3 - March 2011,,,14NSConf03March2011,NSConf03
+Design For Developers,Dave Wiskus,,77MB,38,NSConference 3 - March 2011,,,15NSConf03March2011,NSConf03
+"Address Book on iOS, Mac OS, and Address Book Action Plugins",Manuel Carrasco Molina,,51MB,21,NSConference 3 - March 2011,,,16NSConf03March2011,NSConf03
+"Scanning, Parsing and Other Furry Creatures",Uli Kusterer,,57MB,33,NSConference 3 - March 2011,,,17NSConf03March2011,NSConf03
+Over the Air Ad Hoc Distribution on Speed,Martin Reichart,,32MB,13,NSConference 3 - March 2011,,,18NSConf03March2011,NSConf03
+Bonjour Networking Between iOS and OS X,Johnathan Freeman,,33MB,17,NSConference 3 - March 2011,,,19NSConf03March2011,NSConf03
+The Non-Slimy Guide to Mobile Ads and Affiliate Links -,Neil Ingliss,,37MB,18,NSConference 3 - March 2011,,,20NSConf03March2011,NSConf03
+Idiots and Maniacs,Trevor Squires,,69MB,35,NSConference 3 - March 2011,,,21NSConf03March2011,NSConf03
+Using Private APIs Safely,Cédric Luthi,,32MB,13,NSConference 3 - March 2011,,,22NSConf03March2011,NSConf03
+Aggressive Asset Caching,Marcus Zarra,,67MB,37,NSConference 3 - March 2011,,,23NSConf03March2011,NSConf03
+Making Core Data Your Bitch,Daniel Tull,,19MB,9,NSConference 3 - March 2011,,,24NSConf03March2011,NSConf03
+Quick Start Guide to Debugger Assembly Language,Tim Isted,,53MB,26,NSConference 3 - March 2011,,,25NSConf03March2011,NSConf03
+"Git, Gerrit and Jenkins",Alex Blewit,,24MB,10,NSConference 3 - March 2011,,,26NSConf03March2011,NSConf03
+Great User Support,Daniel Jalkut,,56MB,31,NSConference 3 - March 2011,,,27NSConf03March2011,NSConf03
+The Concept of Technical Dept,Steve Scott (Scotty),,30MB,14,NSConference 3 - March 2011,,,28NSConf03March2011,NSConf03
+Mac Ruby in Real Life,Saul Mora,,65MB,24,NSConference 3 - March 2011,,,29NSConf03March2011,NSConf03
+Making The New Everyday Things,Aral Balkan,,102MB,53,NSConference 3 - March 2011,,,30NSConf03March2011,NSConf03
+Designing an Objective C Framework about 3D to Rule Them All,Raphael Sebbe,,29MB,14,NSConference 3 - March 2011,,,31NSConf03March2011,NSConf03
+Session 32,Nicolas Seriot,,49MB,26,NSConference 3 - March 2011,,,32NSConf03March2011,NSConf03
+How I (Finally) Conquered NSTreeController,Mike Abdullah,,28MB,11,NSConference 3 - March 2011,,,33NSConf03March2011,NSConf03
+Serious Core Animation,Drew McCormack,,74MB,33,NSConference 3 - March 2011,,,34NSConf03March2011,NSConf03
+"PDD, Pomodoro Driven Development",Robert Wijas,,34MB,14,NSConference 3 - March 2011,,,35NSConf03March2011,NSConf03
+Couritng Customers: A Guide To Software Seduction,Jiva DeVoe,,71MB,31,NSConference 3 - March 2011,,,36NSConf03March2011,NSConf03
+The Many Forms of Design in Software or Why You Need (to be) a Jack of All Trades,Dirk Stoop,,35MB,16,NSConference 3 - March 2011,,,37NSConf03March2011,NSConf03
+Making Really Annoying iOS Apps,Matt Gemmell,,72MB,34,NSConference 3 - March 2011,,,38NSConf03March2011,NSConf03
+What Every Developer Should Know About Bourbon,Ross Carter,,34MB,12,NSConference 3 - March 2011,,,39NSConf03March2011,NSConf03
+The Cocoa Rumble,,,107MB,1,NSConference 3 - March 2011,,,40NSConf03March2011,NSConf03
+The Opening Keynote,Steve Scott (Scotty),,108MB,23,NSConference 4 - March 2012,,,01NSConf04March2012,NSConf04
+Five Sure Ways To Sabotage a Release,Kevin Hoctor,,53MB,13,NSConference 4 - March 2012,,,02NSConf04March2012,NSConf04
+Patterns and TEchniques for Cross Platform Objective,C Code - Graham Lee,,140MB,27,NSConference 4 - March 2012,,,03NSConf04March2012,NSConf04
+Open Source Home Automation with Open Remote,Eric Bariaux,,44MB,14,NSConference 4 - March 2012,,,04NSConf04March2012,NSConf04
+Know Your Tools,Nathan Eror,,157MB,42,NSConference 4 - March 2012,,,05NSConf04March2012,NSConf04
+Becoming a Subject Matter Expert,Marcus Zarra,,149MB,34,NSConference 4 - March 2012,,,06NSConf04March2012,NSConf04
+Dealing With a Race Condition,Jakob Egger,,39MB,10,NSConference 4 - March 2012,,,07NSConf04March2012,NSConf04
+You Too Can Speak Unicode,Ross Carter,,109MB,30,NSConference 4 - March 2012,,,08NSConf04March2012,NSConf04
+A Case Study In Storyboards,Martin Winter,,44MB,15,NSConference 4 - March 2012,,,09NSConf04March2012,NSConf04
+Not Another Design Talk,Drew McCormack,,114MB,29,NSConference 4 - March 2012,,,10NSConf04March2012,NSConf04
+Core Data Bit Me: Strengths and Weaknesses of the Object Graph,Frederic Sagnes,,62MB,16,NSConference 4 - March 2012,,,11NSConf04March2012,NSConf04
+WWSJD,Mike Lee,,210MB,54,NSConference 4 - March 2012,,,12NSConf04March2012,NSConf04
+Think Organic,Tim Isted,,155MB,35,NSConference 4 - March 2012,,,13NSConf04March2012,NSConf04
+Being The Middle Man - How to Successfully Sell iOS Frameworks,Peter Steinberg,,53MB,15,NSConference 4 - March 2012,,,14NSConf04March2012,NSConf04
+KVO - Behind the Magic Curtain,Danny Greg,,96MB,26,NSConference 4 - March 2012,,,15NSConf04March2012,NSConf04
+Enhancing Yealry Years Education With Speech Recognition,Emily Toop,,60MB,15,NSConference 4 - March 2012,,,16NSConf04March2012,NSConf04
+Backstage Awesome,Jeff LaMarche,,142MB,31,NSConference 4 - March 2012,,,17NSConf04March2012,NSConf04
+Consuming RAILS Services From iOS,Matt Long,,147MB,29,NSConference 4 - March 2012,,,18NSConf04March2012,NSConf04
+The Growm Up Way Build and Distribute iOS Apps,Martin Reichart,,54MB,14,NSConference 4 - March 2012,,,19NSConf04March2012,NSConf04
+How To Create A Successful App,Michael Simmons,,161MB,32,NSConference 4 - March 2012,,,20NSConf04March2012,NSConf04
+iOS 5 Skinning - Make Your Apps Lickable ,Nik Kuh,,58MB,15,NSConference 4 - March 2012,,,21NSConf04March2012,NSConf04
+Tools and Editors,Dave Addey,,107MB,26,NSConference 4 - March 2012,,,22NSConf04March2012,NSConf04
+DevonImboEverPad,Simon Wolf,,55MB,14,NSConference 4 - March 2012,,,23NSConf04March2012,NSConf04
+Design Considerations For Educational Apps,Fraser Spiers,,100MB,28,NSConference 4 - March 2012,,,24NSConf04March2012,NSConf04
+Automated UI Testing and Automated Feature Testing Using The Calabash Framework,Niklas Saers,,59MB,15,NSConference 4 - March 2012,,,25NSConf04March2012,NSConf04
+Making Broad Decisions & Narrow Promises,Guy English,,104MB,26,NSConference 4 - March 2012,,,26NSConf04March2012,NSConf04
+App Localisation - An Introduction to Localising Your First App,Robert Lo Blue,,44MB,14,NSConference 4 - March 2012,,,27NSConf04March2012,NSConf04
+Core Data and iCloud,Daniel Pasco,,125MB,40,NSConference 4 - March 2012,,,28NSConf04March2012,NSConf04
+Real World User Experience,Matt Gemmell,,163MB,43,NSConference 4 - March 2012,,,29NSConf04March2012,NSConf04
+Runtime Foolery,Saul Mora,,44MB,11,NSConference 4 - March 2012,,,30NSConf04March2012,NSConf04
+The Cocoa Rumble,,,205MB,1,NSConference 4 - March 2012,,,31NSConf04March2012,NSConf04
+Turning Ideas Into Apps,Matt Gemmell,,208MB,62,NSConference Mini (Design) - September 2012,,,01NSConfMiniSept2012,NSConfMini02
+Oh My Clients!,Jaimee Newberry,,250MB,1,NSConference Mini (Design) - September 2012,,,02NSConfMiniSept2012,NSConfMini02
+Design For Change,Cathy Shive,,105MB,39,NSConference Mini (Design) - September 2012,,,03NSConfMiniSept2012,NSConfMini02
+Why You Should Care,Dave Wiskus,,208MB,51,NSConference Mini (Design) - September 2012,,,04NSConfMiniSept2012,NSConfMini02
+Buttons Are A Hack,Josh Clark,,78MB,60,NSConference Mini (Design) - September 2012,,,05NSConfMiniSept2012,NSConfMini02
+Design Panel,"Steve Scott (Scotty), Matt Gemmell, Cathy Shive, Dave Wiskus, Jaimee Newberry, Josh Clark",,166MB,1,NSConference Mini (Design) - September 2012,,,06NSConfMiniSept2012,NSConfMini02
+Whisky & Community,Steve Scott (Scotty),"Scotty kicks off the conference in his usual style, and sets the tone for the whole conference.",82MB,27,NSConference 5 - March 2013,,,01NSConfFiveMarch2013,NSConf05
+Building Better Apps,Bill Dudney,"Responsiveness is critical to the success of any iOS app. But, optimizing an app without data is like driving without a map. To optimize you have to know where the problems are. In this session we will learn how to use Instruments to find performance bottle necks and look at approaches to fixing them. Bill looks at three critical areas: Startup time, Memory Usage, Scrolling & Graphics Performance",102MB,38,NSConference 5 - March 2013,,,02NSConf05March2013,NSConf05
+Searching for Speedy Searching,Simon Wolf,Blitz Talk,49MB,16,NSConference 5 - March 2013,,,03NSConfFiveMarch2013,NSConf05
+The Ultimate Developer Toolchain,Richard Morton,Blitz Talk,34MB,12,NSConference 5 - March 2013,,,04NSConfFiveMarch2013,NSConf05
+Why Making 12 Games in 12 months is a good idea,Matthijs Hollemans,Blitz Talk,38MB,14,NSConference 5 - March 2013,,,05NSConfFiveMarch2013,NSConf05
+UISS,UIAppearance on Steroids - Robert Wijas,Blitz Talk,36MB,15,NSConference 5 - March 2013,,,06NSConfFiveMarch2013,NSConf05
+Becoming a Product Company,Daniel Pasco,"After years of client work, Black Pixel acquired three major products and began the transition from a client services company to a product company. As professionals with hundreds of apps under our belts, we thought it'd be easy, but there were a lot of unexpected surprises and differences that caught us off guard.,If you're thinking about acquiring a product, or working on the shift from contracting to releasing your own applications, this talk is you. Learn from our mistakes, as well as what went right, and what we're still working to improve.",120MB,51,NSConference 5 - March 2013,,,07NSConfFiveMarch2013,NSConf05
+Software Architecture Tips,Jacob Gorban,Blitz Talk,49MB,15,NSConference 5 - March 2013,,,08NSConfFiveMarch2013,NSConf05
+Webkit UI Inspector Tips & Tricks,Daniel Jalkut,"Introducing WebKit's UI inspector, and exploring the variety of tools it possesses for examining, modifying, and measuring the performance of 'web content' whether it be destined for a web page or embedded in a native Mac or iOS application.",90MB,34,NSConference 5 - March 2013,,,09NSConfFiveMarch2013,NSConf05
+The Invisible Interface: Offline Speech Recognition And Text To Speech In Your App,Halle Winkler,Blitz Talk,46MB,17,NSConference 5 - March 2013,,,10NSConfFiveMarch2013,NSConf05
+"Handling The Press, or: 'How to get five star reviews, sell millions of apps, and retire six months from now – guaranteed!'",Christopher Phin,"Chris helps developers appreciate the perspective of the journalist covering their industry, so as to make their interactions as productive as possible and give your app the best chance possible of being covered. Covers best practice for press releases, the press area of websites, and more.",87MB,27,NSConference 5 - March 2013,,,11NSConfFiveMarch2013,NSConf05
+Thriving in an App Store World,Michael Jurewitz,"Jury talks about the economics of the App Store, product development philosophy and scheduling, and working well with Apple.",170MB,66,NSConference 5 - March 2013,,,12NSConfFiveMarch2013,NSConf05
+Talking To Hardware,Alasdair Allan,"Until recently, the restrictions placed on developers meant that if you were an independent developer, or even a small company, you probably couldn’t get access to the documentation and components you needed to connect your iOS device to an arbitrary piece of hardware. Little of the innovation that people were expecting with the arrival of the External Accessories framework actually occurred, and much of the blame for this is usually laid at the feet of Apple's Made for iPod (MFi) licensing program.",133MB,45,NSConference 5 - March 2013,,,13NSConfFiveMarch2013,NSConf05
+"Don't do agile, be agile",Maxim Zaks,Blitz Talk,31MB,15,NSConference 5 - March 2013,,,14NSConfFiveMarch2013,NSConf05
+Back Away From The Screen,Nathan Eror,Blitz Talk,46MB,18,NSConference 5 - March 2013,,,15NSConfFiveMarch2013,NSConf05
+"TouchDB: embeddable, lightweight, in-process, CouchDB syncing, butt kicking database for iOS & OSX apps",Matias Pipari,Blitz Talk,39MB,16,NSConference 5 - March 2013,,,16NSConfFiveMarch2013,NSConf05
+The Simple and Intuitive Fallacy: Why We Need to Develop Standards For Complex UIs Too,Joerg Schwieder,Blitz Talk,39MB,16,NSConference 5 - March 2013,,,17NSConfFiveMarch2013,NSConf05
+Baing Naive,Rob Rhyne,"I discuss the pitfalls of over-engineering and how it can affect a small business trying to ship software. Drawing experience from my consulting background, I illustrate how starting with the naive implementation can save you time for important details that will delight your audience.,The talk will center around how I designed and developed a live histogram in my shipping app, Pris. Eschewing OpenGL and other more complicated solutions, I used a little known feature in Core Animation to prototype the first version of the histogram. It worked so well, it was the final solution in the shipping app.,Part technical, part business. This talk is about little ideas making a big impact. Helping would-be app developers become shipping app developers. Inspiring them to start building to show real people instead of bragging on the internet about their clever engineering.",84MB,28,NSConference 5 - March 2013,,,18NSConfFiveMarch2013,NSConf05
+What We Learnt Developing and Selling Sketch,Pieter Omvlee,Blitz Talk,48MB,17,NSConference 5 - March 2013,,,19NSConfFiveMarch2013,NSConf05
+Introducing Core Values,Scott Morrison,"We are going to look at the concept of Core Values -- the values that small indies bring to their business and build their enterprises on. Essentially a core value is a relatively immutable foundation that we use for making development and business decisions even if we aren't entirely aware what they are.,In the explication of Core Values we will build a Framework for core values using language that developers should be able to grok. (Thread Safety, private/public interfaces, notification, MVC models, Key Value observations).",95MB,30,NSConference 5 - March 2013,,,20NSConfFiveMarch2013,NSConf05
+Slightly Unsupported,Finder Code Injection - Steve Flack,Blitz Talk,38MB,12,NSConference 5 - March 2013,,,21NSConfFiveMarch2013,NSConf05
+The Rise and Fall of a Mobile Startup,Emily Toop,"Once upon a time an enthusiastic and ambitious mobile developer decided to throw caution to the wind and start a business around the things she loved, namely iPads, education and speech recognition. What follows is the tale of the highs and lows, the lessons learned and the tears shed on the journey from inception to conclusion.,Emily talks about the cool tech discovered, the mistakes made, the technical challenges overcome and all the things she would do differently next time.,And there *will* be a next time",70MB,22,NSConference 5 - March 2013,,,22NSConfFiveMarch2013,NSConf05
+iOS Tools at Flipboard,Evan Doll,"Discussion & demo of various tools we've built for iOS development at Flipboard, along with accompanying strategy & philosophy. Evan provides concrete, actionable ideas for the audience.,It includes: iOS simulator hacks, tools for reporting & reproducing bugs, performance tuning, internationalization & tweaking your production app on the fly.",253MB,48,NSConference 5 - March 2013,,,23NSConfFiveMarch2013,NSConf05
+User Identity,Markos Charatzas,Blitz Talk,91MB,16,NSConference 5 - March 2013,,,24NSConfFiveMarch2013,NSConf05
+Rethink Syncing,Charles Parnot,Blitz Talk,40MB,17,NSConference 5 - March 2013,,,25NSConfFiveMarch2013,NSConf05
+Copywriting is Design,Nik Fletcher,"For all the focus on UX, we're still pretty terrible at communicating with our customers. As developers and designers, we're in a unique position to make seemingly small changes that make a huge difference to how people interact with your apps.,",85MB,26,NSConference 5 – March 2013,,,26NSConfFiveMarch2013,NSConf05
+Controlling Animation With a UIGestureRecogniser,Eelco Lempsink,Blitz Talk,41MB,13,NSConference 5 - March 2013,,,27NSConfFiveMarch2013,NSConf05
+The Art of Shipping,Alan Cannistraro,"In this talk, we'll explore some common communication patterns that our industry typically falls into, how we can avoid them, and most importantly build our own (great) patterns to ensure that the copy in your app is communicating clearly from 1.0.",90MB,33,NSConference 5 - March 2013,,,28NSConfFiveMarch2013,NSConf05
+Reverse Indie,Alexander Griekspoor,"Going indie is a dream, being free, being your very own one-man-band. And if things go well, you soon see your team growing, driven by a product that has so much to offer, so many cool things it could do. But as things grow you realize you'll have to make a decision: keep it a life-style business or really scaling up. This is the story of how I decided to reverse my indie-ship and join a large company again. What were the decisions, worries, opportunities, and challenges involved in making the biggest choice in my career so far.",215MB,33,NSConference 5 - March 2013,,,29NSConfFiveMarch2013,NSConf05
+Independent but not Alone,Craig Hockeberry,A talk on how developers and designers work together to create great products.,78MB,30,NSConference 5 - March 2013,,,30NSConfFiveMarch2013,NSConf05
+Subscription Pricing,Manton Reece,"The software market has always been one of peaks and valleys, as sales from a big release carry developers through the less busy months. The App Store only exaggerates these revenue spikes, with an emphasis on the top 10 lists, and a flood of free app gimmicks that go for volume and succeed on upsells. It can be daunting for small developers to compete.,But what if there's another way? This talk will cover the changing software market from the view of subscription pricing. We'll cover Apple's in-app purchase APIs, PayPal subscriptions, and credit card options such as the Stripe API. We'll hit the changing business requirements of recurring billing -- why subscriptions might be a better fit for apps that embrace the cloud, and how it shifts the focus away from hyping the next product launch, to just making existing customers happy.",94MB,32,NSConference 5 - March 2013,,,31NSConfFiveMarch2013,NSConf05

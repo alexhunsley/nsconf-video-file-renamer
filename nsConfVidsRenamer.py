@@ -61,7 +61,7 @@ for row in reader:
 	if (len(authors) == 0):
 		authors = "Misc"
 
-	fullFilename = "%s/%s - %02d %s (%s).%s" % (vidsFolder,  baseName, int(vidIndex), description, authors, "m4v")
+	fullFilename = "%s - %02d %s (%s).%s" % (baseName, int(vidIndex), description, authors, "m4v")
 
 	fullFilename = ''.join(c for c in fullFilename if c in validFilenameChars)
 
@@ -69,11 +69,15 @@ for row in reader:
 
 	fullSourceFilename = "%s/%s.m4v" % (vidsFolder, vidFilename)
 
-	if (not os.path.exists(fullSourceFilename)):
-		print fullSourceFilename, " not found"
-		sys.exit()
+#	if (not os.path.exists(fullSourceFilename)):
+#		print fullSourceFilename, " not found"
+#		sys.exit()
 
 	print "%s --> %s" % (fullSourceFilename, fullDestinationFilename)
 
-	shutil.copyfile(fullSourceFilename, fullDestinationFilename)
+	try:
+		shutil.copyfile(fullSourceFilename, fullDestinationFilename)
+	except IOError:
+		print "****** Warning: file not found: %s" % fullSourceFilename
+
 

@@ -20,3 +20,36 @@ Once you've cloned the repo, created a folder inside named allVidsUnzipped. Insi
 Run the python script, and then look in the allVidsRenamed folder for renamed copies of all the videos.
 
 Note: the original videos are copied, not renamed in-place.
+
+Before and After
+================
+
+Example of filenames before:
+
+01NSConf03March2011.m4v
+01NSConf04March2012.m4v
+01NSConfFiveMarch2013.m4v
+01NSConfMain032009.m4v
+01NSConfMiniJune2010.m4v
+01NSConfMiniSept2012.m4v
+01NSConfTwoMarch2010.m4v
+02NSConf03March2011.m4v
+02NSConf04March2012.m4v
+02NSConf05March2013.m4v
+
+And after:
+
+NSConf01 - 01 Designing and Developing Custom Controls (Matt Gemmell).m4v
+NSConf01 - 02 Integrating With The Photography Eco System (Fraser Spiers).m4v
+NSConf01 - 03 New Cocoa Programming SuperPowers (Philippe Mougin).m4v
+NSConf01 - 04 The Foundations of Objective C (Andre Pang).m4v
+NSConf01 - 05 Pimp My App (Mike Lee).m4v
+NSConf01 - 06 What a Performance (Drew McCormack).m4v
+NSConf01 - 07 Building A Secure Cocoa Program (Graham Lee).m4v
+NSConf01 - 08 Core Animation Animating Your UI (Bill Dudney).m4v
+NSConf01 - 09 Spotlight and Quicklook vs Core Data (Marcus Zarra).m4v
+NSConf01 - 10 The Very First Cocoa Face Off (Misc).m4v
+NSConf02 - 01 Engineering Life (Mike Lee).m4v
+NSConf02 - 02 Spelunking OS X (Johnathan Rentzch).m4v
+NSConf02 - 03 Clean Code (Dave Dribin).m4v
+

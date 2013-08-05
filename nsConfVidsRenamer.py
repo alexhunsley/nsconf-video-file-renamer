@@ -5,21 +5,6 @@
 # Note that the files are renamed by making copies, rather than
 # renamed in place, to avoid annoying irreversible screwups.
 #
-# If you're the person repsonsible for the very poor naming of the NSConf vid files:
-#    a) hang your head in shame
-#    b) do better next time
-#
-#  Srsly, I paid decent money for these vids and then took three hours screwing around to
-#  get competently and consistently named files that actually tell me what are in the files. 
-#  Other people also probably wasted time doing a similar fix. Rather than all that repeated
-#  effort, if the source of the videos was on the case and did it right to begin with, 
-#  everyone would be happy and get to eat ice cream rather than hacking python in their pants
-#  in their creepy basement next to Mr Plinkett.
-#
-#  Srsly, it's 2013 now. 1995 was a while back. Please leave bad file naming in 1995 where
-#  it belongs. 
-#
-#  I am available for children's parties.
 
 import csv
 import os.path
@@ -68,10 +53,6 @@ for row in reader:
 	fullDestinationFilename = "%s/%s" % (renamedVidsFolder, fullFilename)
 
 	fullSourceFilename = "%s/%s.m4v" % (vidsFolder, vidFilename)
-
-#	if (not os.path.exists(fullSourceFilename)):
-#		print fullSourceFilename, " not found"
-#		sys.exit()
 
 	print "%s --> %s" % (fullSourceFilename, fullDestinationFilename)
 

@@ -24,7 +24,7 @@ Note: the original videos are copied, not renamed in-place.
 Before and After
 ================
 
-Example of filenames before:
+Example of filenames before (in file name sorted order):
 
 ```
 01NSConf03March2011.m4v

@@ -39,7 +39,9 @@ Example of filenames before:
 02NSConf05March2013.m4v
 ```
 
-And after:
+Make any sense to you? Me neither. 
+
+Here's the video filenames after renaming magic:
 
 ```
 NSConf01 - 01 Designing and Developing Custom Controls (Matt Gemmell).m4v
@@ -56,4 +58,6 @@ NSConf02 - 01 Engineering Life (Mike Lee).m4v
 NSConf02 - 02 Spelunking OS X (Johnathan Rentzch).m4v
 NSConf02 - 03 Clean Code (Dave Dribin).m4v
 ```
+
+Ahhhh... Bisto.
 
